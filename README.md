@@ -18,7 +18,7 @@ Harici hiçbir kuruluma (Nmap, Python vb.) ihtiyaç duymadan, sadece **PowerShel
 
 ---
 
-## TR Türkçe Kullanım
+## Türkçe Kullanım
 
 ### Özellikler
 * ⚡ **Ultra Hızlı:** Standart ping'in aksine, paralel tarama (Multi-thread) yapar.
@@ -43,7 +43,7 @@ Harici hiçbir kuruluma (Nmap, Python vb.) ihtiyaç duymadan, sadece **PowerShel
 
 ---
 
-## EN English Usage
+## English Usage
 
 ### Features
 * ⚡ **Blazing Fast:** Uses PowerShell Runspaces to ping hundreds of targets simultaneously.
